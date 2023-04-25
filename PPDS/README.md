@@ -1,5 +1,6 @@
-# StreamerBot-Commands
-A home for my commands for Streamer Bot. Probably require PhatTools to work
+# PPDS Streamer Bot Integration
+Actions and Commands for PPDS using KK964s HTTP Controller
 
+Requires PhatTools: https://github.com/Phat32/PhatTools
 
-Download PhatTools: https://github.com/Phat32/PhatTools
+PPDS HTTP Controller: https://github.com/KK964/PPDuckSim-HTTP-Controller/releases
